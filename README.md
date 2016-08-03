@@ -26,7 +26,5 @@ You will need Python 2.7 and a web browser to view the output.
 
 * **MorningStar Cornell** - (https://github.com/morningstarc)
 
-## Acknowledgments
 
-* 
 
